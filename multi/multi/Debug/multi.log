@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015/5/10 20:03:54。
+     1>项目“c:\Users\yuanHao\documents\visual studio 2013\Projects\multi\multi\multi.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Node.cpp
+         Node.cpp
+     1>c:\users\yuanhao\documents\visual studio 2013\projects\multi\multi\fptree.h(21): warning C4150: 删除指向不完整“Node”类型的指针；没有调用析构函数
+                 c:\users\yuanhao\documents\visual studio 2013\projects\multi\multi\fptree.h(14) : 参见“Node”的声明
+     1>c:\users\yuanhao\documents\visual studio 2013\projects\multi\multi\fptree.h(31): error C2514: “Node”: 类没有构造函数
+                 c:\users\yuanhao\documents\visual studio 2013\projects\multi\multi\fptree.h(14) : 参见“Node”的声明
+     1>已完成生成项目“c:\Users\yuanHao\documents\visual studio 2013\Projects\multi\multi\multi.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.87
